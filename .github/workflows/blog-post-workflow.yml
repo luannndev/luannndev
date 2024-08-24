@@ -9,6 +9,6 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v2
-      - uses: luannndev/blog-post-workflow@main
+      - uses: luannndev/luannndev@main
         with:
           feed_list: 'https://dev.to/feed/luannndev'
