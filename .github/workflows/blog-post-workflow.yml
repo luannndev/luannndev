@@ -1,10 +1,22 @@
 name: Test Workflow
+
 on:
   schedule:
+    # Läuft jede Minute
     - cron: '* * * * *'
   workflow_dispatch:
+
 jobs:
-  test:
+  test-job:
+    name: Test Job
     runs-on: ubuntu-latest
+
     steps:
-      - run: echo "Workflow is running"
+      - name: Checkout Repository
+        uses: actions/checkout@v3
+
+      - name: Echo Hello World
+        run: echo "Hello, World! Dieser Test-Workflow funktioniert."
+
+      - name: Aktuelle Zeit anzeigen
+        run: date
