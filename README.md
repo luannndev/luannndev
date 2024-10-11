@@ -7,7 +7,7 @@
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=luannndev&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=luannndev&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=luannndev&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+[![luannndevs GitHub stats](https://github-readme-stats.vercel.app/api/top-langs?username=luannndev&hide=html,scss,stylus,blade,jupyter%20notebook,python,css,shell,batchfile,dockerfile,typescript&theme=algolia&show_icons=true)](https://github.com/luannndev)
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=luannndev&theme=radical&no-frame=false&no-bg=false&margin-w=4)
