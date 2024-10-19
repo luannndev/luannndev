@@ -40,6 +40,8 @@
 <h2 align="center">🐍 Activity 🐍</h2>
 <br/>
 <!--START_SECTION:waka-->
+![Profile Views]
+![Lines of code]
 <!--END_SECTION:waka-->
 <hr/>
 
