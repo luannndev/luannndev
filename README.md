@@ -40,7 +40,7 @@
 <br/><br/>
 
 <hr/>
-[![activity graph](https://github-readme-activity-graph.vercel.app/graph?username=luannndev&theme=react&custom_title=luannndev%20Activity%20Graph&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=luannndev&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
 <br/><br/>
 
 <hr/>
