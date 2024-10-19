@@ -18,8 +18,9 @@ jobs:
           SHOW_LINES_OF_CODE: "True"
           SHOW_LOC_CHART: "False" 
           SHOW_OS: "False"
+          SHOW_TOTAL_CODE_TIME: "False"
           SHOW_PROJECTS: "False"
           SHOW_EDITORS: "False"
           SHOW_TIMEZONE: "False"
-          COMMIT_MESSAGE: "Update Wakatime Weekly Activity"
+          COMMIT_MESSAGE: "Update Wakatime Activity"
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
