@@ -41,4 +41,10 @@
 
 <hr/>
 
+<h2 align="center">🐍 Activiy 🐍</h2>
+<br>
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+<hr/>
+
 <br/>
