@@ -22,7 +22,7 @@
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=react,bootstrap,rust,html,css,github,figma,tailwind,git,r,php,postman" />
-    <img src="https://skillicons.dev/icons?i=rust,ruby,scala,go,postgres,redis,rabbitmq,gradle,java,nextjs,mysql,flask" />
+    <img src="https://skillicons.dev/icons?i=gradle,ruby,scala,go,postgres,redis,rabbitmq,gradle,java,nextjs,mysql,flask" />
     <img src="https://skillicons.dev/icons?i=angular,vite,vim,bun,c,discordjs,docker,flutter,sqlite,maven,nginx,npm" />
     <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,typescript,kubernetes,firebase,mongodb,c" /><br>
 </div>
