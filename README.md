@@ -40,6 +40,7 @@
 <h2 align="center">🐍 Activity 🐍</h2>
 <br/>
 <!--START_SECTION:waka-->
+
 **🐱 My GitHub Data** 
 
 > 📦 28.3 kB Used in GitHub's Storage 
