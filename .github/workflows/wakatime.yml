@@ -3,7 +3,7 @@ name: Update Wakatime Readme
 on:
   workflow_dispatch:
   schedule:
-    - cron: "*/5 * * * *"
+    - cron: "*/10 * * * *"
 
 permissions: write-all
 
