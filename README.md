@@ -37,12 +37,4 @@
 
 <hr/>
 
-
-
-
-
- Last Updated on 05/11/2024 15:34:36 UTC
-<!--END_SECTION:waka-->
-<hr/>
-
 <br/>
